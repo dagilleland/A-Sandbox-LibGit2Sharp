@@ -1,3 +1,3 @@
 # A-Sandbox-LibGit2Sharp
 
-Testing
+Testing with text from branch `rnd`.
